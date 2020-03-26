@@ -1,5 +1,5 @@
 ### **TANDEM**: A Taxonomy and a Dataset of Real-World Performance Bugs
-[Link to TANDEM](https://github.com/belene/tandem.git)
+[Link to TANDEM](https://github.com/belene/tandem/blob/master/docs/TANDEM.pdf)
 
 TANDEM is a collection of fully documented real-world performance bugs. To facilitate the comprehension of the set of performance bugs extracted in a systematic review of research papers, we bound together all the information into a single document of 67 pages called TAxoNomy  and  Dataset  of  pErforMance  bugs  (TANDEM). This document consists of a form for each of the 125 bugs identified in the search, containing the following information:
 
